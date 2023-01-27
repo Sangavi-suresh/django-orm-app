@@ -1,18 +1,21 @@
 # Django ORM Web Application
 
-## AIM
+## AIM:
+
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
 
-![output](entitydiagram.png)
+![](./erdia.png)
 
 ## DESIGN STEPS
 
 ### STEP 1:
+
 creating and collecting datas from customer using django
 
 ### STEP 2:
+
 implementation using python code.
 
 ### STEP 3:
@@ -38,8 +41,8 @@ class CustomerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![output](customer.png)
+![](./orm.png)
 
 
 ## RESULT
-thus, the experiment was executed successfully..
+Thus, the experiment was executed successfully..
